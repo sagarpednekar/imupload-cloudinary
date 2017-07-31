@@ -1,0 +1,9 @@
+development:
+  cloud_name: "dplu7kw2u"
+  api_key: "738584171866535"
+  api_secret: "KIoa2DNgnR04cETKC3mZ08RUOJU"
+
+production:
+  cloud_name: "dplu7kw2u"
+  api_key: "738584171866535"
+  api_secret: "KIoa2DNgnR04cETKC3mZ08RUOJU"
