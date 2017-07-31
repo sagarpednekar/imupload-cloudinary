@@ -16,5 +16,5 @@ Things you may want to cover:
 * Database initialization (run rails db:migrate)
 
 * How to run the test suite (run rails server
-
-* ...
+  
+* Thank you!!
