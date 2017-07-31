@@ -1,4 +1,4 @@
-# README
+# ImageUpload Cloudinary Demo
 This app is demonstration How Image upload to Cloudinary.As there are no much resources available i decided to make it open-source
 
 Things you may want to cover:
